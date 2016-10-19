@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=g
+comment0.target=DemoScreen(BaseGame)
+comment1.params=
+comment1.target=void\ create()
+comment2.params=dt
+comment2.target=void\ update(float)
+comment3.params=keycode
+comment3.target=boolean\ keyDown(int)
+numComments=4

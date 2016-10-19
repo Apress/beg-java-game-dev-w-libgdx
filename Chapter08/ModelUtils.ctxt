@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=xSize\ ySize\ zSize\ t\ c
+comment0.target=com.badlogic.gdx.graphics.g3d.ModelInstance\ createBox(float,\ float,\ float,\ com.badlogic.gdx.graphics.Texture,\ com.badlogic.gdx.graphics.Color)
+comment1.params=texSides
+comment1.target=com.badlogic.gdx.graphics.g3d.ModelInstance\ createCubeTexture6(com.badlogic.gdx.graphics.Texture[])
+comment2.params=r\ t\ c
+comment2.target=com.badlogic.gdx.graphics.g3d.ModelInstance\ createSphere(float,\ com.badlogic.gdx.graphics.Texture,\ com.badlogic.gdx.graphics.Color)
+comment3.params=r\ t\ c
+comment3.target=com.badlogic.gdx.graphics.g3d.ModelInstance\ createSphereInv(float,\ com.badlogic.gdx.graphics.Texture,\ com.badlogic.gdx.graphics.Color)
+numComments=4
